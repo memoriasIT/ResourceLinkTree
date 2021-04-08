@@ -4,4 +4,4 @@ Based on Kyhao D3.js collapsible tree
 
 # Demo Image
 
-[!Demo Image](/images/demo.png)
+![Demo Image](./images/demo.png)
